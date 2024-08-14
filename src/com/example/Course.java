@@ -1,4 +1,4 @@
-package Course;
+package com.example;
 
 public class Course {
     private String code, course_name, instructor_name;
